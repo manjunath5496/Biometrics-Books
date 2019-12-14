@@ -45,7 +45,9 @@ Beijing, China, October 22-23, 2005 Proceedings</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biometrics-Books/blob/master/bim(29).pdf" style="text-decoration:none;">Discriminative Learning in Biometrics</a></b></li>  
 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Biometrics-Books/blob/master/bim(30).pdf" style="text-decoration:none;">Biometrics under Biomedical Considerations </a></b></li>  
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Biometrics-Books/blob/master/bim(31).pdf" style="text-decoration:none;">Handbook of Multibiometrics</a></b></li>  
 
 
 
